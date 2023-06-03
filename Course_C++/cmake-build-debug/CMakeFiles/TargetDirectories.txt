@@ -1,0 +1,3 @@
+C:/Users/flame/CLionProjects/Course_C++/cmake-build-debug/CMakeFiles/Course_C__.dir
+C:/Users/flame/CLionProjects/Course_C++/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/flame/CLionProjects/Course_C++/cmake-build-debug/CMakeFiles/rebuild_cache.dir
